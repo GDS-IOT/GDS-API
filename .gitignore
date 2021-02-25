@@ -1,0 +1,8 @@
+.idea/
+target/classes/
+target/generated-sources
+target/generated-sources/annotations
+target/maven-archiver
+target/maven-status
+
+GDS-API.iml
